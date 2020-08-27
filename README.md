@@ -1,11 +1,15 @@
-## Coursera_Capstone (The Battle of Neighborhoods)
+## Determining User Response on Web Ad using Logistic Regression
+**Background of the Project:**
+This project aims to determine user response towards a particular web ad. I have been provided with a large dataset of website’s visitors demographic, geographic and behavioral attributes. My task was to build a model that will predict whether or not users will click on that ad based on their features.
 
-This is my Capstone Project for 'IBM Professional Certification in Data Science'
+**Work Process:**
+I have collected the data of 1000 website visitors. After that, I have imported necessary python libraries. Using those libraries, I have performed an exploratory data analysis on the data through various visual representations. Then I have split the data into train and test sets. After training the model, I have conducted Logistic Regression which eventually helped me to evaluate the model and predict the test data. Finally, I have determined the accuracy of that model.
 
-The objective of this Project is to identify better facilities around different neighborhoods which help people exploring these facilities smartly to take effective decision by selecting great neighborhood out of many other neighborhoods in Scarborough, Toronto.
-A lot of people are migrating to a various states of Canada who need to know many important factors like housing prices, reputed schools, available entertainment options, shopping location, food shop and hospital etc. This project aims to enable people looking for better neighborhoods considering the above factors.
-Here, I have determined the features of the neighborhood and perform a comparative analysis between them. The features include median housing price and better school according to ratings, crime rates of that particular area, road connectivity, weather conditions, good management for emergency, water resources both fresh and waste water and excrement conveyed in sewers and recreational facilities.
-This project facilitates people by generating awareness of the surrounding area and the neighborhood before moving to the new place.
+**Result:**
+By analyzing data, evaluating the model, I have created a classification report to determine the accuracy of the model. This model can be implemented in future projects with such results. 
 
-*Please see the Coursera Capstone Presentaion for detail. 
+*Note: The website information and the dataset are confidential. I have only shown the data analysis process.*
+
+
+ 
 
